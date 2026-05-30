@@ -1,2 +1,1 @@
 # ALGORITHM_LAB
-#Intern
